@@ -5,7 +5,7 @@
 Project is aimed on getting all deprecated methods from specific Mozilla MDN web-site in a JSON format.
 This project is taking info from left side bar of the web page.
 
-![alt text](https://github.com/ToPeter/deprecated-method-search/sidebar.png "Mozzila MDN side bar") 
+![alt text](https://github.com/ToPeter/deprecated-method-search/sidebar.png) 
 
 ## Before you run 
 
