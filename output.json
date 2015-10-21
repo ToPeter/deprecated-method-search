@@ -1,0 +1,47 @@
+[
+ {
+  "nameOfMethod": " String.prototype.big()"
+ },
+ {
+  "nameOfMethod": " String.prototype.blink()"
+ },
+ {
+  "nameOfMethod": " String.prototype.bold()"
+ },
+ {
+  "nameOfMethod": " String.prototype.fixed()"
+ },
+ {
+  "nameOfMethod": " String.prototype.fontcolor()"
+ },
+ {
+  "nameOfMethod": " String.prototype.fontsize()"
+ },
+ {
+  "nameOfMethod": " String.prototype.italics()"
+ },
+ {
+  "nameOfMethod": " String.prototype.small()"
+ },
+ {
+  "nameOfMethod": " String.prototype.strike()"
+ },
+ {
+  "nameOfMethod": " String.prototype.sub()"
+ },
+ {
+  "nameOfMethod": " String.prototype.sup()"
+ },
+ {
+  "nameOfMethod": " Function.arguments"
+ },
+ {
+  "nameOfMethod": " Object.prototype.__proto__"
+ },
+ {
+  "nameOfMethod": "  Object.prototype.__lookupGetter__()"
+ },
+ {
+  "nameOfMethod": "  Object.prototype.__lookupSetter__()"
+ }
+]
